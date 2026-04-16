@@ -65,6 +65,7 @@ The system uses:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c58395b7-c797-41e9-b502-51c224995d9b" width="500"/>
 </p>
+
 ---
 
 ## Results
