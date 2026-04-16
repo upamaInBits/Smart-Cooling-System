@@ -54,6 +54,11 @@ The system uses:
 - Relay-based switching for actuators
 
 ---
+## Screenshot
+<img width="1920" height="1080" alt="acooling1" src="https://github.com/user-attachments/assets/54c6b11d-8a3a-4632-8ca0-b0f854ca9072" />
+<img width="1920" height="1080" alt="cooling2" src="https://github.com/user-attachments/assets/c58395b7-c797-41e9-b502-51c224995d9b" />
+
+
 
 ## Results
 
